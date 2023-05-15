@@ -9,6 +9,8 @@
 
 # Watch Live on Your Browser 
 
+https://harrissaroj.github.io/PasswordGenerator-JS/
+
 # Screenshot 
 
 ![PasswordGenerstor](https://github.com/HarrisSaroj/PasswordGenerator-JS/assets/109414883/9285029a-7e58-40d6-978c-aaba35f74d1f)
